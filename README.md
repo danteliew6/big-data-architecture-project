@@ -1,7 +1,14 @@
 Repository for IS459-Big Data Architecture group project<br>
 
+Group members:
+1. Dante Liew
+2. Wang Wei Min
+3. Jared Ng
+4. Remus Chan
 
-!!! Take note Scrapers do use the project files already made and change the configurations accordingly there!!! <br>
+Copied over from Wei Min's github for my personal portfolio.
+
+*Take note Scrapers do use the project files already made and change the configurations accordingly there!!! <br>
 
 <h2>#Virtualenv guide</h2><br>
 Creation<br>
